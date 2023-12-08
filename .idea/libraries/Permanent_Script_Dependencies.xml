@@ -327,6 +327,7 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt-jvm/4.1.0/platf-awt-jvm-4.1.0.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-datetime/0.4.0/kotlinx-datetime-0.4.0.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-serialization-core/1.3.2/kotlinx-serialization-core-1.3.2.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.22/kotlin-stdlib-common-1.8.22.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -650,6 +651,7 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt-jvm/4.1.0/platf-awt-jvm-4.1.0-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-datetime/0.4.0/kotlinx-datetime-0.4.0-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-serialization-core/1.3.2/kotlinx-serialization-core-1.3.2-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.22/kotlin-stdlib-common-1.8.22-sources.jar" />
     </SOURCES>
   </library>
 </component>
